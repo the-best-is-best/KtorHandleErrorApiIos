@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-    spec.name                     = 'ErrorHandleApi'
+    spec.name                     = 'KtorHandleErrorApiIos'
     spec.version                  = '1.0.0'
     spec.homepage                 = 'https://github.com/the-best-is-best/KtorHandleErrorApiIos'
     spec.source                   = {:git=> 'https://github.com/the-best-is-best/KtorHandleErrorApiIos.git' }
