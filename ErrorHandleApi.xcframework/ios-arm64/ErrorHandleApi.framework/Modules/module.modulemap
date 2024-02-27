@@ -1,0 +1,8 @@
+framework module ErrorHandleApi {
+    umbrella header "ErrorHandleApi.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
